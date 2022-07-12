@@ -1,2 +1,6 @@
 *.jpg
 *.txt
+misc.xml
+modules.xml
+python_demo.iml
+vcs.xml
