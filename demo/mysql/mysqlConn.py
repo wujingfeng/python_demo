@@ -15,11 +15,11 @@ import pymysql
 """
 
 # 数据库信息
-DB_TEST_HOST = ""
+DB_TEST_HOST = "162.14.66.215"
 DB_TEST_PORT = 3306
 DB_TEST_USER = "root"
-DB_TEST_PASSWORD = ""
-DB_TEST_DBNAME = ""
+DB_TEST_PASSWORD = "dujunlove1314"
+DB_TEST_DBNAME = "tools"
 
 # 数据库连接编码
 DB_CHARSET = "utf8"
